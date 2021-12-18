@@ -1,5 +1,5 @@
 # Website showcase
-
+-
 > A Vue.js project for dislaying awesome Web lists.
 
 [Project lives here](https://epic-bhabha-e9ae91.netlify.com/#/)
